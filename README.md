@@ -10,6 +10,9 @@ This repository is my daily progress log where I am learning TypeScript from scr
 
 Today I learned the fundamental concepts of TypeScript:
 
+Day 2(09 June 2026) - Basics of TypeScript
+Today I learnd optional parameters, default values and ternary operator in functions
+
 ### 🧠 Topics Covered
 
 - Hello World in TypeScript
